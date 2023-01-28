@@ -1,0 +1,8 @@
+C:\Users\Carol\source\repos\Tarea 1\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe.config
+C:\Users\Carol\source\repos\Tarea 1\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe
+C:\Users\Carol\source\repos\Tarea 1\Tarea 1\Tarea 1\bin\Debug\Tarea 1.pdb
+C:\Users\Carol\source\repos\Tarea 1\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.AssemblyReference.cache
+C:\Users\Carol\source\repos\Tarea 1\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carol\source\repos\Tarea 1\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\Carol\source\repos\Tarea 1\Tarea 1\Tarea 1\obj\Debug\Tarea 1.exe
+C:\Users\Carol\source\repos\Tarea 1\Tarea 1\Tarea 1\obj\Debug\Tarea 1.pdb
